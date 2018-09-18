@@ -1,5 +1,5 @@
 {
-  "name": "extract-zip",
+  "name": "@vtex/extract-zip",
   "version": "1.6.7",
   "description": "unzip a zip file into a directory using 100% javascript",
   "main": "index.js",
