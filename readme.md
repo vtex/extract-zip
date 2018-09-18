@@ -1,3 +1,7 @@
+# Fork motivation
+
+We forked this project in order to solve an error handling issue that was pending for several months in the original project. See [this PR in `builder-hub`](https://github.com/vtex/builder-hub/pull/216) for context.
+
 # extract-zip
 
 Unzip written in pure JavaScript. Extracts a zip into a directory. Available as a library or a command line program.
